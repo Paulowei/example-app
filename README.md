@@ -1,0 +1,7 @@
+- This is the repository for a small app , based on dog images , and descriptions of dogs ; 
+- It was created with gradle  ;
+- Specifically the gradle wrapper ;
+- For the sake of simplicity  ;
+- The compiled apk file has been left in a directory ;
+- This directory is /app/build/outputs/apk/release  ;
+- The apk file is names example33.apk ; 
