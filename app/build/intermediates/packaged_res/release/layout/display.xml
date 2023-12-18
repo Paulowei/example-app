@@ -1,0 +1,99 @@
+<?xml version ="1.0" encoding="UTF-8"?> 
+<ScrollView
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/apk/tools"
+ xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_height = "match_parent" 
+android:layout_width = "match_parent" 
+android:orientation="vertical" 
+android:id = "@+id/display_1">
+    <LinearLayout
+    android:layout_height="match_parent" 
+    android:layout_width="match_parent" 
+    android:layout_gravity="center_horizontal" 
+    android:id = "@+id/display_1_1"  
+    android:orientation="vertical"   >
+        <LinearLayout 
+        android:layout_height = "wrap_content" 
+        android:layout_width="match_parent" 
+        android:layout_gravity="center_horizontal" 
+        android:id= "@+id/display_1_1_1" 
+        android:orientation="vertical">
+            <RelativeLayout
+            android:layout_gravity="left|top" 
+            android:layout_width= "wrap_content"
+            android:layout_height = "wrap_content"
+            android:id = "@+id/display_1_1_1_1" >
+                <ImageView  
+                android:src = "@drawable/ic_launcher" 
+                android:layout_width="80dp"
+                android:layout_height ="50dp" 
+                androidlayout_gravity="center_horizontal|center_vertical" 
+                android:id = "@+id/display_1_1_1_1_1" 
+                android:layout_alignParentLeft="true"/>
+            </RelativeLayout>
+        </LinearLayout>
+    <LinearLayout
+    android:layout_gravity="center_horizontal" 
+    android:layout_width = "match_parent"
+    android:layout_height = "wrap_content"
+    android:orientation="vertical"
+    android:id ="@+id/display_1_1_2"
+    android:layout_margin = "25dp">
+        <RelativeLayout
+        android:layout_gravity="center_horizontal"
+        android:layout_width = "wrap_content" 
+        android:layout_height="wrap_content"
+        android:id = "@+id/display_1_1_2_1"
+         android:padding="10dp"
+        android:layout_margin ="10dp">
+            <ImageView 
+            android:layout_gravity="center_horizontal"
+            android:layout_height="270px" 
+            android:layout_width = "270px"
+            android:id ="@+id/display_1_1_2_1_1" 
+            android:src = "@drawable/ic_launcher" 
+            android:layout_centerInParent="true"/>
+        </RelativeLayout>  
+        </LinearLayout>
+        <LinearLayout 
+        android:layout_gravity ="center_horizontal"
+        android:layout_width = "wrap_content" 
+        android:layout_height = "wrap_content"  
+        android:orientation="vertical"
+        android:id= "@+id/display_1_1_3" 
+        android:layout_margin= "30dp" >
+            <TextView 
+            android:layout_margin= "10px" 
+            android:padding="10px"  
+            android:layout_gravity="center_horizontal"    
+            android:id="@+id/display_1_1_3_1"
+            android:layout_height ="wrap_content"
+            android:layout_width="wrap_content"
+            android:text ="description"/>
+        </LinearLayout>    
+        <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:padding ="12dp" 
+        android:id="@+id/display_1_1_4"
+        android:orientation="vertical" 
+        android:layout_gravity="center_vertical" 
+        android:layout_margin = "30dp" >  
+            <RelativeLayout
+            android:id = "@+id/display_1_1_4_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"  >    
+                <Button
+                android:text="RotateImage" 
+                android:textSize="12sp"
+                android:layout_centerInParent="true"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" 
+                android:id="@+id/display_1_1_4_1_1"  />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+

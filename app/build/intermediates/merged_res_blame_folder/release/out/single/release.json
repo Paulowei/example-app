@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_miniature_schnauzer.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/miniature_schnauzer.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_border_collie.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/border_collie.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_border_collie.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/border_collie.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_miniature_schnauzer.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/miniature_schnauzer.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_miniature_schnauzer.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/miniature_schnauzer.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_miniature_schnauzer.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/miniature_schnauzer.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_bernese_mountain_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/bernese_mountain_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_alaskan_malamute.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/alaskan_malamute.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_border_collie.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/border_collie.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_border_collie.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/border_collie.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_australian_cattle_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/australian_cattle_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_alaskan_malamute.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/alaskan_malamute.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_beagle.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/beagle.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_bernese_mountain_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/bernese_mountain_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_beagle.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/beagle.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_australian_cattle_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/australian_cattle_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_alaskan_malamute.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/alaskan_malamute.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_australian_cattle_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/australian_cattle_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/layout_display.xml.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/layout/display.xml"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_australian_cattle_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/australian_cattle_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_bernese_mountain_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/bernese_mountain_dog.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_alaskan_malamute.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/alaskan_malamute.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-hdpi_beagle.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-hdpi/beagle.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-mdpi_beagle.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-mdpi/beagle.jpg"
+    },
+    {
+        "merged": "com.moderneinstein.android.examples.app-merged_res-5:/drawable-xhdpi_bernese_mountain_dog.jpg.flat",
+        "source": "com.moderneinstein.android.examples.app-main-6:/drawable-xhdpi/bernese_mountain_dog.jpg"
+    }
+]

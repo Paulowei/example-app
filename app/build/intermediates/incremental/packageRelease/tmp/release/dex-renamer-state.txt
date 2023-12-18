@@ -1,0 +1,4 @@
+#Mon Dec 18 11:57:11 WAT 2023
+base.0=C\:\\Users\\ACCESS\\Documents\\Codebases\\ExampleApp\\example-app\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

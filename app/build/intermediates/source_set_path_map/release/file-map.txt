@@ -1,0 +1,8 @@
+com.moderneinstein.android.examples.app-pngs-0 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\generated\res\pngs\release
+com.moderneinstein.android.examples.app-resValues-1 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\generated\res\resValues\release
+com.moderneinstein.android.examples.app-rs-2 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\generated\res\rs\release
+com.moderneinstein.android.examples.app-packageReleaseResources-3 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.moderneinstein.android.examples.app-packageReleaseResources-4 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.moderneinstein.android.examples.app-merged_res-5 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\build\intermediates\merged_res\release
+com.moderneinstein.android.examples.app-main-6 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\res
+com.moderneinstein.android.examples.app-release-7 C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\release\res

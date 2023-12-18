@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.moderneinstein.android.examples"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:6:5-20:19
+12        android:extractNativeLibs="false"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:6:52-88
+14        android:label="@string/app_title" >
+14-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:6:18-51
+15        <activity
+15-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:7:9-14:20
+16            android:name="com.moderneinstein.android.examples.CentralActivity"
+16-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:7:19-49
+17            android:exported="true"
+17-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:9:19-43
+18            android:label="@string/app_title" >
+18-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:8:19-52
+19            <intent-filter>
+19-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:10:13-13:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:11:17-69
+20-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:11:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:12:17-77
+22-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:12:27-74
+23            </intent-filter>
+24        </activity>
+25        <activity
+25-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:15:9-19:20
+26            android:name="com.moderneinstein.android.examples.DisplayActivity"
+26-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:18:9-41
+27            android:exported="true"
+27-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:17:9-34
+28            android:parentActivityName="com.moderneinstein.android.examples.CentralActivity" >
+28-->C:\Users\ACCESS\Documents\Codebases\ExampleApp\example-app\app\src\main\AndroidManifest.xml:16:9-53
+29        </activity>
+30    </application>
+31
+32</manifest>

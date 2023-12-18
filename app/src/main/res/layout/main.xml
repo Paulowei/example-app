@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScrollView   
+xmlns:tools="http://schemas.android.com/apk/apk/tools"  
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:android ="http://schemas.android.com/apk/res/android"
+android:orientation ="vertical"
+android:layout_width="match_parent" 
+android:layout_height="match_parent" 
+android:id = "@+id/main_1"> 
+    <LinearLayout  
+    android:orientation = "vertical" 
+    android:layout_width = "wrap_content" 
+    android:layout_height="match_parent" 
+    android:id ="@+id/main_1_1" 
+    android:layout_gravity="center_horizontal"  >
+    <LinearLayout  
+    android:layout_height = "wrap_content"
+    android:layout_width = "match_parent"
+    android:id = "@+id/main_1_1_1"
+    android:layout_gravity ="center_horizontal"
+    android:layout_marginTop="50dp" 
+    android:orientation="vertical">
+        <!--android:layout_margin="6dp"-->
+        <RelativeLayout
+        android:layout_width = "wrap_content" 
+        android:layout_height = "wrap_content" 
+        android:id = "@+id/main_1_1_1_1" 
+        android:layout_gravity = "center_horizontal" 
+        android:padding ="5dp"  
+        android:orientation="vertical">    
+        <ImageView 
+        android:src = "@drawable/ic_launcher"
+        android:id = "@+id/main_1_1_1_1_1"
+        android:layout_height = "180dp"
+        android:layout_width = "180dp" 
+        android:layout_gravity = "center_horizontal" 
+        android:layout_centerInParent="true"/> 
+        <!--center_vertical| -->
+        </RelativeLayout>    
+        <RelativeLayout
+        android:layout_gravity = "center_horizontal"
+        android:id = "@+id/main_1_1_1_2" 
+        android:layout_height="wrap_content" 
+        android:layout_width="wrap_content" 
+        android:orientation="vertical" 
+        android:layout_margin= "10dp" 
+        android:padding="10dp">
+            <TextView
+            android:layout_centerInParent ="true"
+            android:layout_height= "wrap_content"
+            android:layout_width= "wrap_content" 
+            android:id = "@+id/main_1_1_1_2_1"
+            android:textSize = "18dp"
+            android:text = "dogspecies"
+            android:layout_gravity= "center_vertical"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+    android:layout_margin="15dp" 
+    android:padding = "15dp"  
+    android:layout_gravity = "center_horizontal" 
+    android:layout_height="wrap_content" 
+    android:orientation="horizontal" 
+    android:layout_width ="match_parent" 
+    android:id="@+id/main_1_1_2" 
+    android:weightSum= "1.0" >
+        <LinearLayout 
+        android:layout_gravity="center_vertical" 
+        android:layout_width ="wrap_content" 
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id ="@+id/main_1_1_2_1"  
+        android:layout_weight="0.5"
+        android:orientation = "vertical"> 
+            <Button 
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+             android:id="@+id/main_1_1_2_1_1" 
+             android:padding ="10dp"
+            android:layout_margin="10dp"  
+            android:text="textview"  
+            android:textSize = "16sp"   />
+            <Button 
+            android:id ="@+id/main_1_1_2_1_2" 
+            android:layout_gravity = "center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height= "wrap_content" 
+            android:padding="10dp" 
+            android:layout_margin="10dp"  
+            android:textSize="16sp" 
+            android:text="button"   />
+        </LinearLayout  > 
+        <LinearLayout
+         android:orientation="vertical"
+         android:layout_height="wrap_content"
+        android:layout_width ="wrap_content" 
+        android:layout_gravity = "center_vertical"
+        android:padding="10dp"
+        android:id ="@+id/main_1_1_2_2"  
+        android:layout_weight="0.5">
+            <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:id="@+id/main_1_1_2_2_1"
+            android:text="textview" 
+            android:padding="5dp"
+            android:layout_margin="7dp"  
+            android:layout_gravity="center_horizontal"
+            android:textSize=" 14sp" /> 
+            <Button
+            android:layout_gravity="center_horizontal"
+            android:layout_margin = "7dp" 
+            android:id="@+id/main_1_1_2_2_2"
+            android:padding = "5dp" 
+            android:layout_height= "wrap_content"
+            android:textSize="14sp"
+            android:layout_width= "wrap_content"
+            android:text="button"/>
+        </LinearLayout>
+    </LinearLayout>  
+    <LinearLayout  
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" 
+    android:id= "@+id/main_1_1_3" 
+    android:orientation ="vertical"  >
+    <RelativeLayout 
+    android:layout_gravity="center_horizontal" 
+    android:layout_width ="wrap_content" 
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding ="6dp" 
+    android:id= "@+id/main_1_1_3_1">
+        <Button 
+        android:layout_gravity="center_horizontal" 
+        android:layout_height="wrap_content" 
+        android:layout_width="wrap_content" 
+        android:id = "@+id/main_1_1_3_1_1" 
+        android:padding ="8dp"  
+        android:textSize = "15dp" 
+        android:text="rotate image"/>
+    </RelativeLayout>  
+    </LinearLayout>
+    </LinearLayout>  
+</ScrollView>
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Hello World, RootActivity"
+    />
+</LinearLayout>  -->
+
